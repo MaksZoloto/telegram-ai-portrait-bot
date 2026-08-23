@@ -1,0 +1,50 @@
+# Git and GitHub
+.git
+.github
+
+# Secrets and local configuration
+.env
+.env.*
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Test and development caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Runtime databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.session
+
+# User uploads and generated images
+data/runtime/
+data/uploads/
+storage/runtime/
+storage/uploads/
+generated/
+output/
+downloads/
+tmp/
+temp/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
