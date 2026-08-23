@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    env_file: .env
+    ports:
+      - "8090:8090"
+    volumes:
+      - ai_portrait_data:/app/data/runtime
+    restart: unless-stopped
+
+volumes:
+  ai_portrait_data:

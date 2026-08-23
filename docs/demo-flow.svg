@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="180" viewBox="0 0 1400 180">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<style>.t{font:600 20px DejaVu Sans,Arial;fill:#f8fafc}.a{stroke:#60a5fa;stroke-width:4;fill:none}.b{fill:#1e293b;stroke:#60a5fa;stroke-width:2}</style>
+<rect class="b" x="40" y="50" rx="18" width="220" height="80"/>
+<text class="t" x="150.0" y="98" text-anchor="middle">Язык</text>
+<path class="a" d="M268,90.0 L300,90.0"/>
+<path fill="#60a5fa" d="M300,82.0 L315,90.0 L300,98.0 Z"/>
+<rect class="b" x="315" y="50" rx="18" width="220" height="80"/>
+<text class="t" x="425.0" y="98" text-anchor="middle">Фото</text>
+<path class="a" d="M543,90.0 L575,90.0"/>
+<path fill="#60a5fa" d="M575,82.0 L590,90.0 L575,98.0 Z"/>
+<rect class="b" x="590" y="50" rx="18" width="220" height="80"/>
+<text class="t" x="700.0" y="98" text-anchor="middle">Стиль</text>
+<path class="a" d="M818,90.0 L850,90.0"/>
+<path fill="#60a5fa" d="M850,82.0 L865,90.0 L850,98.0 Z"/>
+<rect class="b" x="865" y="50" rx="18" width="220" height="80"/>
+<text class="t" x="975.0" y="98" text-anchor="middle">AI-генерация</text>
+<path class="a" d="M1093,90.0 L1125,90.0"/>
+<path fill="#60a5fa" d="M1125,82.0 L1140,90.0 L1125,98.0 Z"/>
+<rect class="b" x="1140" y="50" rx="18" width="220" height="80"/>
+<text class="t" x="1250.0" y="98" text-anchor="middle">Результат</text>
+</svg>
