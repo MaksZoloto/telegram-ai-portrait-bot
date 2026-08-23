@@ -1,0 +1,51 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tests and development tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Runtime database and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# User uploads and generated images
+data/runtime/
+data/uploads/
+storage/runtime/
+storage/uploads/
+generated/
+output/
+downloads/
+tmp/
+temp/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
